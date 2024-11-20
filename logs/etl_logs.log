@@ -1,0 +1,1161 @@
+2023-11-21 11:48:42,080 | INFO | hellow world
+2023-11-21 13:08:36,910 | INFO | hellow world
+2023-11-21 13:09:14,151 | INFO | hellow world
+2023-11-21 13:09:14,151 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:09:14,151 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:09:15,017 | INFO | closed
+2023-11-21 13:09:15,017 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:12:43,363 | INFO | hellow world
+2023-11-21 13:12:43,375 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:12:43,376 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:12:44,024 | INFO | closed
+2023-11-21 13:12:44,025 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:15:02,626 | INFO | hellow world
+2023-11-21 13:15:02,626 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:15:02,632 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:15:03,468 | INFO | closed
+2023-11-21 13:15:03,468 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:16:31,740 | INFO | hellow world
+2023-11-21 13:16:31,740 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:16:31,745 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:16:32,484 | INFO | creating a stage in snowflake
+2023-11-21 13:16:32,550 | INFO | closed
+2023-11-21 13:16:32,550 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:19:34,113 | INFO | hellow world
+2023-11-21 13:19:34,113 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:19:34,113 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:19:34,980 | INFO | creating a stage in snowflake
+2023-11-21 13:19:34,981 | INFO | query exicution start
+2023-11-21 13:19:34,982 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (TYPE...]
+2023-11-21 13:19:35,118 | INFO | query execution done
+2023-11-21 13:19:35,193 | INFO | closed
+2023-11-21 13:19:35,195 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:22:30,028 | INFO | hellow world
+2023-11-21 13:22:30,030 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:22:30,032 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:22:30,830 | INFO | creating a stage in snowflake
+2023-11-21 13:22:30,830 | INFO | query exicution start
+2023-11-21 13:22:30,831 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (FIEL...]
+2023-11-21 13:22:30,991 | INFO | query execution done
+2023-11-21 13:22:31,070 | INFO | closed
+2023-11-21 13:22:31,071 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:26:59,967 | INFO | hellow world
+2023-11-21 13:26:59,967 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:26:59,972 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:27:00,985 | INFO | creating a stage in snowflake
+2023-11-21 13:27:00,985 | INFO | query exicution start
+2023-11-21 13:27:00,985 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:27:01,163 | INFO | query execution done
+2023-11-21 13:27:01,238 | INFO | closed
+2023-11-21 13:27:01,238 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:27:37,647 | INFO | hellow world
+2023-11-21 13:27:37,647 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:27:37,647 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:27:38,747 | INFO | creating a stage in snowflake
+2023-11-21 13:27:38,747 | INFO | query exicution start
+2023-11-21 13:27:38,747 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:27:38,871 | INFO | query execution done
+2023-11-21 13:27:38,926 | INFO | closed
+2023-11-21 13:27:38,926 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:28:58,370 | INFO | hellow world
+2023-11-21 13:28:58,370 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:28:58,370 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:28:59,756 | INFO | creating a stage in snowflake
+2023-11-21 13:28:59,756 | INFO | query exicution start
+2023-11-21 13:28:59,756 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:29:00,057 | INFO | query execution done
+2023-11-21 13:29:00,117 | INFO | closed
+2023-11-21 13:29:00,117 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:29:18,239 | INFO | hellow world
+2023-11-21 13:29:18,239 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:29:18,251 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:29:19,304 | INFO | creating a stage in snowflake
+2023-11-21 13:29:19,304 | INFO | query exicution start
+2023-11-21 13:29:19,318 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:29:19,508 | INFO | query execution done
+2023-11-21 13:29:19,572 | INFO | closed
+2023-11-21 13:29:19,572 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:29:36,653 | INFO | hellow world
+2023-11-21 13:29:36,653 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:29:36,653 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:29:37,840 | INFO | creating a stage in snowflake
+2023-11-21 13:29:37,840 | INFO | query exicution start
+2023-11-21 13:29:37,840 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:29:38,036 | INFO | query execution done
+2023-11-21 13:29:38,036 | INFO | Number of results in first chunk: 1
+2023-11-21 13:29:38,036 | INFO | making keys lower
+2023-11-21 13:29:38,036 | INFO | putting data into stage
+2023-11-21 13:29:38,036 | INFO | query exicution start
+2023-11-21 13:29:38,036 | INFO | query: [put file://../files/SalesData - SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_ST...]
+2023-11-21 13:29:38,159 | INFO | query execution done
+2023-11-21 13:29:38,238 | INFO | closed
+2023-11-21 13:29:38,251 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:31:11,350 | INFO | hellow world
+2023-11-21 13:31:11,350 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:31:11,350 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:31:12,161 | INFO | creating a stage in snowflake
+2023-11-21 13:31:12,161 | INFO | query exicution start
+2023-11-21 13:31:12,166 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:31:12,333 | INFO | query execution done
+2023-11-21 13:31:12,349 | INFO | Number of results in first chunk: 1
+2023-11-21 13:31:12,349 | INFO | making keys lower
+2023-11-21 13:31:12,349 | INFO | putting data into stage
+2023-11-21 13:31:12,349 | INFO | query exicution start
+2023-11-21 13:31:12,349 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:31:13,468 | INFO | query execution done
+2023-11-21 13:31:14,496 | INFO | making keys lower
+2023-11-21 13:31:14,497 | INFO | creating a table in snowflake
+2023-11-21 13:31:14,497 | INFO | query exicution start
+2023-11-21 13:31:14,497 | INFO | query: [CREATE OR REPLACE MOCK_01.mock_01_schema.TABLE SALES_TSV (ORDER_NO NUMBER, order...]
+2023-11-21 13:31:14,603 | INFO | query execution done
+2023-11-21 13:31:14,672 | INFO | closed
+2023-11-21 13:31:14,672 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:32:08,089 | INFO | hellow world
+2023-11-21 13:32:08,089 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:32:08,089 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:32:08,869 | INFO | creating a stage in snowflake
+2023-11-21 13:32:08,869 | INFO | query exicution start
+2023-11-21 13:32:08,869 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:32:09,034 | INFO | query execution done
+2023-11-21 13:32:09,034 | INFO | Number of results in first chunk: 1
+2023-11-21 13:32:09,034 | INFO | making keys lower
+2023-11-21 13:32:09,034 | INFO | putting data into stage
+2023-11-21 13:32:09,034 | INFO | query exicution start
+2023-11-21 13:32:09,034 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:32:10,322 | INFO | query execution done
+2023-11-21 13:32:11,196 | INFO | making keys lower
+2023-11-21 13:32:11,196 | INFO | creating a table in snowflake
+2023-11-21 13:32:11,196 | INFO | query exicution start
+2023-11-21 13:32:11,196 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.TABLE SALES_TSV(ORDER_NO NUMBER, ...]
+2023-11-21 13:32:11,329 | INFO | query execution done
+2023-11-21 13:32:11,381 | INFO | closed
+2023-11-21 13:32:11,391 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:33:00,967 | INFO | hellow world
+2023-11-21 13:33:00,967 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:33:00,967 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:33:02,284 | INFO | creating a stage in snowflake
+2023-11-21 13:33:02,284 | INFO | query exicution start
+2023-11-21 13:33:02,284 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:33:02,693 | INFO | query execution done
+2023-11-21 13:33:02,693 | INFO | Number of results in first chunk: 1
+2023-11-21 13:33:02,693 | INFO | making keys lower
+2023-11-21 13:33:02,693 | INFO | putting data into stage
+2023-11-21 13:33:02,693 | INFO | query exicution start
+2023-11-21 13:33:02,693 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:33:03,947 | INFO | query execution done
+2023-11-21 13:33:04,818 | INFO | making keys lower
+2023-11-21 13:33:04,818 | INFO | creating a table in snowflake
+2023-11-21 13:33:04,818 | INFO | query exicution start
+2023-11-21 13:33:04,818 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:33:04,930 | INFO | query execution done
+2023-11-21 13:33:04,999 | INFO | closed
+2023-11-21 13:33:04,999 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:33:54,003 | INFO | hellow world
+2023-11-21 13:33:54,011 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:33:54,011 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:33:54,867 | INFO | creating a stage in snowflake
+2023-11-21 13:33:54,867 | INFO | query exicution start
+2023-11-21 13:33:54,867 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:33:55,059 | INFO | query execution done
+2023-11-21 13:33:55,059 | INFO | Number of results in first chunk: 1
+2023-11-21 13:33:55,059 | INFO | making keys lower
+2023-11-21 13:33:55,059 | INFO | putting data into stage
+2023-11-21 13:33:55,059 | INFO | query exicution start
+2023-11-21 13:33:55,059 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:33:56,201 | INFO | query execution done
+2023-11-21 13:33:57,075 | INFO | making keys lower
+2023-11-21 13:33:57,075 | INFO | creating a table in snowflake
+2023-11-21 13:33:57,075 | INFO | query exicution start
+2023-11-21 13:33:57,075 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:33:57,372 | INFO | query execution done
+2023-11-21 13:33:57,372 | INFO | Number of results in first chunk: 1
+2023-11-21 13:33:57,372 | INFO | making keys lower
+2023-11-21 13:33:57,372 | INFO | copy data into table
+2023-11-21 13:33:57,372 | INFO | query exicution start
+2023-11-21 13:33:57,372 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:33:57,481 | INFO | query execution done
+2023-11-21 13:33:57,545 | INFO | closed
+2023-11-21 13:33:57,545 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:34:16,008 | INFO | hellow world
+2023-11-21 13:34:16,008 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:34:16,008 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:34:16,828 | INFO | creating a stage in snowflake
+2023-11-21 13:34:16,839 | INFO | query exicution start
+2023-11-21 13:34:16,839 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:34:17,005 | INFO | query execution done
+2023-11-21 13:34:17,005 | INFO | Number of results in first chunk: 1
+2023-11-21 13:34:17,005 | INFO | making keys lower
+2023-11-21 13:34:17,005 | INFO | putting data into stage
+2023-11-21 13:34:17,005 | INFO | query exicution start
+2023-11-21 13:34:17,005 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:34:18,097 | INFO | query execution done
+2023-11-21 13:34:18,953 | INFO | making keys lower
+2023-11-21 13:34:18,955 | INFO | creating a table in snowflake
+2023-11-21 13:34:18,955 | INFO | query exicution start
+2023-11-21 13:34:18,956 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:34:19,178 | INFO | query execution done
+2023-11-21 13:34:19,179 | INFO | Number of results in first chunk: 1
+2023-11-21 13:34:19,180 | INFO | making keys lower
+2023-11-21 13:34:19,181 | INFO | copy data into table
+2023-11-21 13:34:19,182 | INFO | query exicution start
+2023-11-21 13:34:19,182 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:34:19,303 | INFO | query execution done
+2023-11-21 13:34:19,364 | INFO | closed
+2023-11-21 13:34:19,364 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:34:33,656 | INFO | hellow world
+2023-11-21 13:34:33,656 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:34:33,656 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:34:34,394 | INFO | creating a stage in snowflake
+2023-11-21 13:34:34,409 | INFO | query exicution start
+2023-11-21 13:34:34,409 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:34:34,823 | INFO | query execution done
+2023-11-21 13:34:34,823 | INFO | Number of results in first chunk: 1
+2023-11-21 13:34:34,825 | INFO | making keys lower
+2023-11-21 13:34:34,825 | INFO | putting data into stage
+2023-11-21 13:34:34,825 | INFO | query exicution start
+2023-11-21 13:34:34,825 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:34:35,915 | INFO | query execution done
+2023-11-21 13:34:36,709 | INFO | making keys lower
+2023-11-21 13:34:36,709 | INFO | creating a table in snowflake
+2023-11-21 13:34:36,709 | INFO | query exicution start
+2023-11-21 13:34:36,709 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:34:36,955 | INFO | query execution done
+2023-11-21 13:34:36,955 | INFO | Number of results in first chunk: 1
+2023-11-21 13:34:36,955 | INFO | making keys lower
+2023-11-21 13:34:36,955 | INFO | copy data into table
+2023-11-21 13:34:36,964 | INFO | query exicution start
+2023-11-21 13:34:36,965 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:34:39,897 | INFO | query execution done
+2023-11-21 13:34:39,897 | INFO | Number of results in first chunk: 1
+2023-11-21 13:34:39,897 | INFO | making keys lower
+2023-11-21 13:34:39,962 | INFO | closed
+2023-11-21 13:34:39,963 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:36:27,479 | INFO | hellow world
+2023-11-21 13:36:27,479 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:36:27,479 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:36:28,975 | INFO | creating a stage in snowflake
+2023-11-21 13:36:28,975 | INFO | query exicution start
+2023-11-21 13:36:28,975 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:36:29,181 | INFO | query execution done
+2023-11-21 13:36:29,181 | INFO | Number of results in first chunk: 1
+2023-11-21 13:36:29,181 | INFO | making keys lower
+2023-11-21 13:36:29,181 | INFO | putting data into stage
+2023-11-21 13:36:29,181 | INFO | query exicution start
+2023-11-21 13:36:29,181 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:36:30,308 | INFO | query execution done
+2023-11-21 13:36:31,336 | INFO | making keys lower
+2023-11-21 13:36:31,342 | INFO | creating a table in snowflake
+2023-11-21 13:36:31,342 | INFO | query exicution start
+2023-11-21 13:36:31,342 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:36:31,635 | INFO | query execution done
+2023-11-21 13:36:31,635 | INFO | Number of results in first chunk: 1
+2023-11-21 13:36:31,650 | INFO | making keys lower
+2023-11-21 13:36:31,651 | INFO | copy data into table
+2023-11-21 13:36:31,651 | INFO | query exicution start
+2023-11-21 13:36:31,651 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:36:31,771 | INFO | query execution done
+2023-11-21 13:36:31,850 | INFO | closed
+2023-11-21 13:36:31,850 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:37:22,881 | INFO | hellow world
+2023-11-21 13:37:22,881 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:37:22,881 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:37:23,863 | INFO | creating a stage in snowflake
+2023-11-21 13:37:23,863 | INFO | query exicution start
+2023-11-21 13:37:23,863 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:37:24,064 | INFO | query execution done
+2023-11-21 13:37:24,064 | INFO | Number of results in first chunk: 1
+2023-11-21 13:37:24,064 | INFO | making keys lower
+2023-11-21 13:37:24,079 | INFO | putting data into stage
+2023-11-21 13:37:24,080 | INFO | query exicution start
+2023-11-21 13:37:24,080 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:37:25,197 | INFO | query execution done
+2023-11-21 13:37:26,372 | INFO | making keys lower
+2023-11-21 13:37:26,372 | INFO | creating a table in snowflake
+2023-11-21 13:37:26,372 | INFO | query exicution start
+2023-11-21 13:37:26,372 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:37:26,731 | INFO | query execution done
+2023-11-21 13:37:26,731 | INFO | Number of results in first chunk: 1
+2023-11-21 13:37:26,731 | INFO | making keys lower
+2023-11-21 13:37:26,731 | INFO | copy data into table
+2023-11-21 13:37:26,731 | INFO | query exicution start
+2023-11-21 13:37:26,731 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:37:29,390 | INFO | query execution done
+2023-11-21 13:37:29,390 | INFO | Number of results in first chunk: 1
+2023-11-21 13:37:29,390 | INFO | making keys lower
+2023-11-21 13:37:29,441 | INFO | closed
+2023-11-21 13:37:29,441 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:37:56,654 | INFO | hellow world
+2023-11-21 13:37:56,654 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:37:56,654 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:37:57,762 | INFO | creating a stage in snowflake
+2023-11-21 13:37:57,762 | INFO | query exicution start
+2023-11-21 13:37:57,762 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:37:57,972 | INFO | query execution done
+2023-11-21 13:37:57,972 | INFO | Number of results in first chunk: 1
+2023-11-21 13:37:57,972 | INFO | making keys lower
+2023-11-21 13:37:57,972 | INFO | putting data into stage
+2023-11-21 13:37:57,972 | INFO | query exicution start
+2023-11-21 13:37:57,972 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:37:59,085 | INFO | query execution done
+2023-11-21 13:38:00,340 | INFO | making keys lower
+2023-11-21 13:38:00,340 | INFO | creating a table in snowflake
+2023-11-21 13:38:00,340 | INFO | query exicution start
+2023-11-21 13:38:00,340 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:38:00,648 | INFO | query execution done
+2023-11-21 13:38:00,648 | INFO | Number of results in first chunk: 1
+2023-11-21 13:38:00,648 | INFO | making keys lower
+2023-11-21 13:38:00,663 | INFO | copy data into table
+2023-11-21 13:38:00,663 | INFO | query exicution start
+2023-11-21 13:38:00,663 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:38:01,234 | INFO | query execution done
+2023-11-21 13:38:01,319 | INFO | closed
+2023-11-21 13:38:01,325 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:39:49,577 | INFO | hellow world
+2023-11-21 13:39:49,577 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:39:49,577 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:39:50,522 | INFO | creating a stage in snowflake
+2023-11-21 13:39:50,522 | INFO | query exicution start
+2023-11-21 13:39:50,537 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:39:50,812 | INFO | query execution done
+2023-11-21 13:39:50,812 | INFO | Number of results in first chunk: 1
+2023-11-21 13:39:50,812 | INFO | making keys lower
+2023-11-21 13:39:50,812 | INFO | putting data into stage
+2023-11-21 13:39:50,812 | INFO | query exicution start
+2023-11-21 13:39:50,812 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:39:52,139 | INFO | query execution done
+2023-11-21 13:39:53,168 | INFO | making keys lower
+2023-11-21 13:39:53,168 | INFO | creating a table in snowflake
+2023-11-21 13:39:53,168 | INFO | query exicution start
+2023-11-21 13:39:53,168 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:39:53,475 | INFO | query execution done
+2023-11-21 13:39:53,475 | INFO | Number of results in first chunk: 1
+2023-11-21 13:39:53,475 | INFO | making keys lower
+2023-11-21 13:39:53,475 | INFO | copy data into table
+2023-11-21 13:39:53,475 | INFO | query exicution start
+2023-11-21 13:39:53,475 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:39:53,673 | INFO | query execution done
+2023-11-21 13:39:53,762 | INFO | closed
+2023-11-21 13:39:53,762 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:49:39,267 | INFO | hellow world
+2023-11-21 13:49:39,267 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:49:39,274 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:49:40,218 | INFO | creating a stage in snowflake
+2023-11-21 13:49:40,218 | INFO | query exicution start
+2023-11-21 13:49:40,234 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:49:40,426 | INFO | query execution done
+2023-11-21 13:49:40,426 | INFO | Number of results in first chunk: 1
+2023-11-21 13:49:40,426 | INFO | making keys lower
+2023-11-21 13:49:40,426 | INFO | putting data into stage
+2023-11-21 13:49:40,441 | INFO | query exicution start
+2023-11-21 13:49:40,441 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:49:41,663 | INFO | query execution done
+2023-11-21 13:49:42,682 | INFO | making keys lower
+2023-11-21 13:49:42,682 | INFO | creating a table in snowflake
+2023-11-21 13:49:42,682 | INFO | query exicution start
+2023-11-21 13:49:42,682 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:49:42,880 | INFO | query execution done
+2023-11-21 13:49:42,973 | INFO | closed
+2023-11-21 13:49:42,973 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:50:17,068 | INFO | hellow world
+2023-11-21 13:50:17,068 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:50:17,068 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:50:18,120 | INFO | creating a stage in snowflake
+2023-11-21 13:50:18,120 | INFO | query exicution start
+2023-11-21 13:50:18,120 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:50:18,313 | INFO | query execution done
+2023-11-21 13:50:18,313 | INFO | Number of results in first chunk: 1
+2023-11-21 13:50:18,327 | INFO | making keys lower
+2023-11-21 13:50:18,327 | INFO | putting data into stage
+2023-11-21 13:50:18,327 | INFO | query exicution start
+2023-11-21 13:50:18,327 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:50:19,656 | INFO | query execution done
+2023-11-21 13:50:20,904 | INFO | making keys lower
+2023-11-21 13:50:20,904 | INFO | creating a table in snowflake
+2023-11-21 13:50:20,904 | INFO | query exicution start
+2023-11-21 13:50:20,904 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:50:21,286 | INFO | query execution done
+2023-11-21 13:50:21,286 | INFO | Number of results in first chunk: 1
+2023-11-21 13:50:21,286 | INFO | making keys lower
+2023-11-21 13:50:21,286 | INFO | copy data into table
+2023-11-21 13:50:21,286 | INFO | query exicution start
+2023-11-21 13:50:21,286 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:50:21,396 | INFO | query execution done
+2023-11-21 13:50:21,463 | INFO | closed
+2023-11-21 13:50:21,463 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:50:57,207 | INFO | hellow world
+2023-11-21 13:50:57,207 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:50:57,207 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:50:58,260 | INFO | creating a stage in snowflake
+2023-11-21 13:50:58,260 | INFO | query exicution start
+2023-11-21 13:50:58,260 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:50:58,464 | INFO | query execution done
+2023-11-21 13:50:58,464 | INFO | Number of results in first chunk: 1
+2023-11-21 13:50:58,464 | INFO | making keys lower
+2023-11-21 13:50:58,464 | INFO | putting data into stage
+2023-11-21 13:50:58,464 | INFO | query exicution start
+2023-11-21 13:50:58,464 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:50:59,688 | INFO | query execution done
+2023-11-21 13:51:00,942 | INFO | making keys lower
+2023-11-21 13:51:00,942 | INFO | creating a table in snowflake
+2023-11-21 13:51:00,942 | INFO | query exicution start
+2023-11-21 13:51:00,942 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:51:01,227 | INFO | query execution done
+2023-11-21 13:51:01,227 | INFO | Number of results in first chunk: 1
+2023-11-21 13:51:01,227 | INFO | making keys lower
+2023-11-21 13:51:01,227 | INFO | copy data into table
+2023-11-21 13:51:01,227 | INFO | query exicution start
+2023-11-21 13:51:01,227 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:51:04,187 | INFO | query execution done
+2023-11-21 13:51:04,263 | INFO | closed
+2023-11-21 13:51:04,263 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:53:51,844 | INFO | hellow world
+2023-11-21 13:53:51,844 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:53:51,844 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:53:53,060 | INFO | creating a stage in snowflake
+2023-11-21 13:53:53,060 | INFO | query exicution start
+2023-11-21 13:53:53,060 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:53:53,255 | INFO | query execution done
+2023-11-21 13:53:53,255 | INFO | Number of results in first chunk: 1
+2023-11-21 13:53:53,255 | INFO | making keys lower
+2023-11-21 13:53:53,255 | INFO | putting data into stage
+2023-11-21 13:53:53,255 | INFO | query exicution start
+2023-11-21 13:53:53,255 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:53:54,402 | INFO | query execution done
+2023-11-21 13:53:55,522 | INFO | making keys lower
+2023-11-21 13:53:55,522 | INFO | creating a table in snowflake
+2023-11-21 13:53:55,522 | INFO | query exicution start
+2023-11-21 13:53:55,522 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:53:55,931 | INFO | query execution done
+2023-11-21 13:53:55,931 | INFO | Number of results in first chunk: 1
+2023-11-21 13:53:55,931 | INFO | making keys lower
+2023-11-21 13:53:55,931 | INFO | copy data into table
+2023-11-21 13:53:55,931 | INFO | query exicution start
+2023-11-21 13:53:55,931 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:53:56,038 | INFO | query execution done
+2023-11-21 13:53:56,102 | INFO | closed
+2023-11-21 13:53:56,102 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:54:25,080 | INFO | hellow world
+2023-11-21 13:54:25,080 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:54:25,080 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:54:26,061 | INFO | creating a stage in snowflake
+2023-11-21 13:54:26,076 | INFO | query exicution start
+2023-11-21 13:54:26,076 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:54:26,328 | INFO | query execution done
+2023-11-21 13:54:26,328 | INFO | Number of results in first chunk: 1
+2023-11-21 13:54:26,328 | INFO | making keys lower
+2023-11-21 13:54:26,328 | INFO | putting data into stage
+2023-11-21 13:54:26,328 | INFO | query exicution start
+2023-11-21 13:54:26,328 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:54:27,552 | INFO | query execution done
+2023-11-21 13:54:28,689 | INFO | making keys lower
+2023-11-21 13:54:28,689 | INFO | creating a table in snowflake
+2023-11-21 13:54:28,689 | INFO | query exicution start
+2023-11-21 13:54:28,689 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:54:28,895 | INFO | query execution done
+2023-11-21 13:54:28,946 | INFO | closed
+2023-11-21 13:54:28,946 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:54:53,453 | INFO | hellow world
+2023-11-21 13:54:53,453 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:54:53,453 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:54:54,488 | INFO | creating a stage in snowflake
+2023-11-21 13:54:54,488 | INFO | query exicution start
+2023-11-21 13:54:54,488 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:54:54,705 | INFO | query execution done
+2023-11-21 13:54:54,705 | INFO | Number of results in first chunk: 1
+2023-11-21 13:54:54,705 | INFO | making keys lower
+2023-11-21 13:54:54,705 | INFO | putting data into stage
+2023-11-21 13:54:54,705 | INFO | query exicution start
+2023-11-21 13:54:54,705 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:54:55,826 | INFO | query execution done
+2023-11-21 13:54:57,058 | INFO | making keys lower
+2023-11-21 13:54:57,058 | INFO | creating a table in snowflake
+2023-11-21 13:54:57,058 | INFO | query exicution start
+2023-11-21 13:54:57,058 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:54:57,357 | INFO | query execution done
+2023-11-21 13:54:57,357 | INFO | Number of results in first chunk: 1
+2023-11-21 13:54:57,372 | INFO | making keys lower
+2023-11-21 13:54:57,373 | INFO | copy data into table
+2023-11-21 13:54:57,374 | INFO | query exicution start
+2023-11-21 13:54:57,375 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:54:57,484 | INFO | query execution done
+2023-11-21 13:54:57,539 | INFO | closed
+2023-11-21 13:54:57,545 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:55:12,232 | INFO | hellow world
+2023-11-21 13:55:12,247 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:55:12,248 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:55:13,437 | INFO | creating a stage in snowflake
+2023-11-21 13:55:13,437 | INFO | query exicution start
+2023-11-21 13:55:13,437 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:55:13,643 | INFO | query execution done
+2023-11-21 13:55:13,643 | INFO | Number of results in first chunk: 1
+2023-11-21 13:55:13,643 | INFO | making keys lower
+2023-11-21 13:55:13,643 | INFO | putting data into stage
+2023-11-21 13:55:13,643 | INFO | query exicution start
+2023-11-21 13:55:13,643 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:55:14,863 | INFO | query execution done
+2023-11-21 13:55:15,993 | INFO | making keys lower
+2023-11-21 13:55:16,006 | INFO | creating a table in snowflake
+2023-11-21 13:55:16,006 | INFO | query exicution start
+2023-11-21 13:55:16,006 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:55:16,306 | INFO | query execution done
+2023-11-21 13:55:16,306 | INFO | Number of results in first chunk: 1
+2023-11-21 13:55:16,306 | INFO | making keys lower
+2023-11-21 13:55:16,306 | INFO | copy data into table
+2023-11-21 13:55:16,306 | INFO | query exicution start
+2023-11-21 13:55:16,306 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:55:17,218 | INFO | query execution done
+2023-11-21 13:55:17,287 | INFO | closed
+2023-11-21 13:55:17,287 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:55:44,372 | INFO | hellow world
+2023-11-21 13:55:44,372 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:55:44,372 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:55:45,280 | INFO | creating a stage in snowflake
+2023-11-21 13:55:45,280 | INFO | query exicution start
+2023-11-21 13:55:45,280 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:55:45,482 | INFO | query execution done
+2023-11-21 13:55:45,482 | INFO | Number of results in first chunk: 1
+2023-11-21 13:55:45,482 | INFO | making keys lower
+2023-11-21 13:55:45,482 | INFO | putting data into stage
+2023-11-21 13:55:45,498 | INFO | query exicution start
+2023-11-21 13:55:45,498 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 13:55:46,710 | INFO | query execution done
+2023-11-21 13:55:47,753 | INFO | making keys lower
+2023-11-21 13:55:47,760 | INFO | creating a table in snowflake
+2023-11-21 13:55:47,760 | INFO | query exicution start
+2023-11-21 13:55:47,763 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 13:55:48,050 | INFO | query execution done
+2023-11-21 13:55:48,054 | INFO | Number of results in first chunk: 1
+2023-11-21 13:55:48,054 | INFO | making keys lower
+2023-11-21 13:55:48,054 | INFO | copy data into table
+2023-11-21 13:55:48,054 | INFO | query exicution start
+2023-11-21 13:55:48,054 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 13:55:50,816 | INFO | query execution done
+2023-11-21 13:55:50,869 | INFO | closed
+2023-11-21 13:55:50,869 | INFO | No async queries seem to be running, deleting session
+2023-11-21 13:58:26,110 | INFO | hellow world
+2023-11-21 13:58:26,110 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 13:58:26,110 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 13:58:27,180 | INFO | creating a stage in snowflake
+2023-11-21 13:58:27,180 | INFO | query exicution start
+2023-11-21 13:58:27,180 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 13:58:27,297 | INFO | query execution done
+2023-11-21 13:58:27,364 | INFO | closed
+2023-11-21 13:58:27,368 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:00:25,484 | INFO | hellow world
+2023-11-21 14:00:25,484 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:00:25,484 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:00:26,584 | INFO | creating a stage in snowflake
+2023-11-21 14:00:26,584 | INFO | query exicution start
+2023-11-21 14:00:26,584 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:00:26,894 | INFO | query execution done
+2023-11-21 14:00:26,894 | INFO | Number of results in first chunk: 1
+2023-11-21 14:00:26,894 | INFO | making keys lower
+2023-11-21 14:00:26,898 | INFO | putting data into stage
+2023-11-21 14:00:26,898 | INFO | query exicution start
+2023-11-21 14:00:26,898 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:00:28,034 | INFO | query execution done
+2023-11-21 14:00:28,980 | INFO | making keys lower
+2023-11-21 14:00:28,980 | INFO | creating a table in snowflake
+2023-11-21 14:00:28,980 | INFO | query exicution start
+2023-11-21 14:00:28,988 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 14:00:29,164 | INFO | query execution done
+2023-11-21 14:00:29,226 | INFO | closed
+2023-11-21 14:00:29,226 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:00:49,186 | INFO | hellow world
+2023-11-21 14:00:49,186 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:00:49,186 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:00:50,287 | INFO | creating a stage in snowflake
+2023-11-21 14:00:50,287 | INFO | query exicution start
+2023-11-21 14:00:50,292 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:00:51,100 | INFO | query execution done
+2023-11-21 14:00:51,101 | INFO | Number of results in first chunk: 1
+2023-11-21 14:00:51,101 | INFO | making keys lower
+2023-11-21 14:00:51,101 | INFO | putting data into stage
+2023-11-21 14:00:51,104 | INFO | query exicution start
+2023-11-21 14:00:51,104 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:00:52,164 | INFO | query execution done
+2023-11-21 14:00:53,264 | INFO | making keys lower
+2023-11-21 14:00:53,264 | INFO | creating a table in snowflake
+2023-11-21 14:00:53,264 | INFO | query exicution start
+2023-11-21 14:00:53,272 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV(ORDER_NO NUMBER, order_...]
+2023-11-21 14:00:53,774 | INFO | query execution done
+2023-11-21 14:00:53,774 | INFO | Number of results in first chunk: 1
+2023-11-21 14:00:53,774 | INFO | making keys lower
+2023-11-21 14:00:53,774 | INFO | copy data into table
+2023-11-21 14:00:53,774 | INFO | query exicution start
+2023-11-21 14:00:53,779 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:00:54,409 | INFO | query execution done
+2023-11-21 14:00:54,488 | INFO | closed
+2023-11-21 14:00:54,488 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:01:45,630 | INFO | hellow world
+2023-11-21 14:01:45,630 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:01:45,635 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:01:46,619 | INFO | creating a stage in snowflake
+2023-11-21 14:01:46,619 | INFO | query exicution start
+2023-11-21 14:01:46,621 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:01:46,786 | INFO | query execution done
+2023-11-21 14:01:46,786 | INFO | Number of results in first chunk: 1
+2023-11-21 14:01:46,786 | INFO | making keys lower
+2023-11-21 14:01:46,794 | INFO | putting data into stage
+2023-11-21 14:01:46,794 | INFO | query exicution start
+2023-11-21 14:01:46,794 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:01:47,895 | INFO | query execution done
+2023-11-21 14:01:48,854 | INFO | making keys lower
+2023-11-21 14:01:48,854 | INFO | creating a table in snowflake
+2023-11-21 14:01:48,855 | INFO | query exicution start
+2023-11-21 14:01:48,856 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( ORDER_NO NUMBER, order...]
+2023-11-21 14:01:49,061 | INFO | query execution done
+2023-11-21 14:01:49,061 | INFO | Number of results in first chunk: 1
+2023-11-21 14:01:49,061 | INFO | making keys lower
+2023-11-21 14:01:49,063 | INFO | copy data into table
+2023-11-21 14:01:49,064 | INFO | query exicution start
+2023-11-21 14:01:49,064 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:01:49,730 | INFO | query execution done
+2023-11-21 14:01:49,817 | INFO | closed
+2023-11-21 14:01:49,817 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:03:21,758 | INFO | hellow world
+2023-11-21 14:03:21,758 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:03:21,758 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:03:22,933 | INFO | creating a stage in snowflake
+2023-11-21 14:03:22,933 | INFO | query exicution start
+2023-11-21 14:03:22,934 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:03:23,102 | INFO | query execution done
+2023-11-21 14:03:23,102 | INFO | Number of results in first chunk: 1
+2023-11-21 14:03:23,104 | INFO | making keys lower
+2023-11-21 14:03:23,104 | INFO | putting data into stage
+2023-11-21 14:03:23,104 | INFO | query exicution start
+2023-11-21 14:03:23,104 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:03:24,274 | INFO | query execution done
+2023-11-21 14:03:25,286 | INFO | making keys lower
+2023-11-21 14:03:25,291 | INFO | creating a table in snowflake
+2023-11-21 14:03:25,293 | INFO | query exicution start
+2023-11-21 14:03:25,293 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( ORDER_NO NUMBER, order...]
+2023-11-21 14:03:25,519 | INFO | query execution done
+2023-11-21 14:03:25,519 | INFO | Number of results in first chunk: 1
+2023-11-21 14:03:25,520 | INFO | making keys lower
+2023-11-21 14:03:25,520 | INFO | copy data into table
+2023-11-21 14:03:25,522 | INFO | query exicution start
+2023-11-21 14:03:25,522 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:03:28,304 | INFO | query execution done
+2023-11-21 14:03:28,383 | INFO | closed
+2023-11-21 14:03:28,385 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:09:59,124 | INFO | hellow world
+2023-11-21 14:09:59,129 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:09:59,129 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:09:59,975 | INFO | creating a stage in snowflake
+2023-11-21 14:09:59,975 | INFO | query exicution start
+2023-11-21 14:09:59,975 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:10:00,144 | INFO | query execution done
+2023-11-21 14:10:00,151 | INFO | Number of results in first chunk: 1
+2023-11-21 14:10:00,152 | INFO | making keys lower
+2023-11-21 14:10:00,152 | INFO | putting data into stage
+2023-11-21 14:10:00,152 | INFO | query exicution start
+2023-11-21 14:10:00,154 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:10:01,294 | INFO | query execution done
+2023-11-21 14:10:02,196 | INFO | making keys lower
+2023-11-21 14:10:02,196 | INFO | creating a table in snowflake
+2023-11-21 14:10:02,196 | INFO | query exicution start
+2023-11-21 14:10:02,196 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( ORDER_NO NUMBER, order...]
+2023-11-21 14:10:02,431 | INFO | query execution done
+2023-11-21 14:10:02,432 | INFO | Number of results in first chunk: 1
+2023-11-21 14:10:02,432 | INFO | making keys lower
+2023-11-21 14:10:02,434 | INFO | copy data into table
+2023-11-21 14:10:02,434 | INFO | query exicution start
+2023-11-21 14:10:02,434 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:10:03,129 | INFO | query execution done
+2023-11-21 14:10:03,196 | INFO | closed
+2023-11-21 14:10:03,196 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:11:17,298 | INFO | hellow world
+2023-11-21 14:11:17,304 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:11:17,306 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:11:18,118 | INFO | creating a stage in snowflake
+2023-11-21 14:11:18,124 | INFO | query exicution start
+2023-11-21 14:11:18,124 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:11:18,281 | INFO | query execution done
+2023-11-21 14:11:18,281 | INFO | Number of results in first chunk: 1
+2023-11-21 14:11:18,281 | INFO | making keys lower
+2023-11-21 14:11:18,284 | INFO | putting data into stage
+2023-11-21 14:11:18,285 | INFO | query exicution start
+2023-11-21 14:11:18,285 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:11:19,504 | INFO | query execution done
+2023-11-21 14:11:23,246 | INFO | making keys lower
+2023-11-21 14:11:23,246 | INFO | creating a table in snowflake
+2023-11-21 14:11:23,246 | INFO | query exicution start
+2023-11-21 14:11:23,246 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( ORDER_NO NUMBER, order...]
+2023-11-21 14:11:23,539 | INFO | query execution done
+2023-11-21 14:11:23,542 | INFO | Number of results in first chunk: 1
+2023-11-21 14:11:23,542 | INFO | making keys lower
+2023-11-21 14:11:23,544 | INFO | copy data into table
+2023-11-21 14:11:23,544 | INFO | query exicution start
+2023-11-21 14:11:23,544 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:11:24,134 | INFO | query execution done
+2023-11-21 14:11:24,194 | INFO | closed
+2023-11-21 14:11:24,194 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:14:37,194 | INFO | hellow world
+2023-11-21 14:14:37,194 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:14:37,194 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:14:38,064 | INFO | creating a stage in snowflake
+2023-11-21 14:14:38,064 | INFO | query exicution start
+2023-11-21 14:14:38,064 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:14:38,295 | INFO | query execution done
+2023-11-21 14:14:38,304 | INFO | Number of results in first chunk: 1
+2023-11-21 14:14:38,305 | INFO | making keys lower
+2023-11-21 14:14:38,305 | INFO | putting data into stage
+2023-11-21 14:14:38,305 | INFO | query exicution start
+2023-11-21 14:14:38,305 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:14:39,469 | INFO | query execution done
+2023-11-21 14:14:40,595 | INFO | making keys lower
+2023-11-21 14:14:40,595 | INFO | creating a table in snowflake
+2023-11-21 14:14:40,595 | INFO | query exicution start
+2023-11-21 14:14:40,604 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( ORDER_NO NUMBER, order...]
+2023-11-21 14:14:40,825 | INFO | query execution done
+2023-11-21 14:14:40,826 | INFO | Number of results in first chunk: 1
+2023-11-21 14:14:40,826 | INFO | making keys lower
+2023-11-21 14:14:40,827 | INFO | copy data into table
+2023-11-21 14:14:40,827 | INFO | query exicution start
+2023-11-21 14:14:40,827 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:14:41,429 | INFO | query execution done
+2023-11-21 14:14:41,484 | INFO | closed
+2023-11-21 14:14:41,486 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:16:51,027 | INFO | hellow world
+2023-11-21 14:16:51,027 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:16:51,034 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:16:52,176 | INFO | creating a stage in snowflake
+2023-11-21 14:16:52,185 | INFO | query exicution start
+2023-11-21 14:16:52,185 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:16:52,386 | INFO | query execution done
+2023-11-21 14:16:52,386 | INFO | Number of results in first chunk: 1
+2023-11-21 14:16:52,386 | INFO | making keys lower
+2023-11-21 14:16:52,386 | INFO | putting data into stage
+2023-11-21 14:16:52,386 | INFO | query exicution start
+2023-11-21 14:16:52,395 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:16:53,506 | INFO | query execution done
+2023-11-21 14:16:54,537 | INFO | making keys lower
+2023-11-21 14:16:54,537 | INFO | creating a table in snowflake
+2023-11-21 14:16:54,537 | INFO | query exicution start
+2023-11-21 14:16:54,537 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order No. NUMBER, orde...]
+2023-11-21 14:16:54,742 | INFO | query execution done
+2023-11-21 14:16:54,794 | INFO | closed
+2023-11-21 14:16:54,795 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:18:13,754 | INFO | hellow world
+2023-11-21 14:18:13,754 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:18:13,754 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:18:14,920 | INFO | creating a stage in snowflake
+2023-11-21 14:18:14,920 | INFO | query exicution start
+2023-11-21 14:18:14,925 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:18:15,169 | INFO | query execution done
+2023-11-21 14:18:15,169 | INFO | Number of results in first chunk: 1
+2023-11-21 14:18:15,169 | INFO | making keys lower
+2023-11-21 14:18:15,169 | INFO | putting data into stage
+2023-11-21 14:18:15,174 | INFO | query exicution start
+2023-11-21 14:18:15,174 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:18:16,454 | INFO | query execution done
+2023-11-21 14:18:17,494 | INFO | making keys lower
+2023-11-21 14:18:17,498 | INFO | creating a table in snowflake
+2023-11-21 14:18:17,498 | INFO | query exicution start
+2023-11-21 14:18:17,498 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No. NUMBER, orde...]
+2023-11-21 14:18:17,651 | INFO | query execution done
+2023-11-21 14:18:17,704 | INFO | closed
+2023-11-21 14:18:17,704 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:18:26,254 | INFO | hellow world
+2023-11-21 14:18:26,254 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:18:26,254 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:18:27,119 | INFO | creating a stage in snowflake
+2023-11-21 14:18:27,119 | INFO | query exicution start
+2023-11-21 14:18:27,119 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:18:27,314 | INFO | query execution done
+2023-11-21 14:18:27,314 | INFO | Number of results in first chunk: 1
+2023-11-21 14:18:27,316 | INFO | making keys lower
+2023-11-21 14:18:27,318 | INFO | putting data into stage
+2023-11-21 14:18:27,318 | INFO | query exicution start
+2023-11-21 14:18:27,319 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:18:28,404 | INFO | query execution done
+2023-11-21 14:18:29,464 | INFO | making keys lower
+2023-11-21 14:18:29,466 | INFO | creating a table in snowflake
+2023-11-21 14:18:29,466 | INFO | query exicution start
+2023-11-21 14:18:29,466 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:18:29,690 | INFO | query execution done
+2023-11-21 14:18:29,690 | INFO | Number of results in first chunk: 1
+2023-11-21 14:18:29,692 | INFO | making keys lower
+2023-11-21 14:18:29,693 | INFO | copy data into table
+2023-11-21 14:18:29,694 | INFO | query exicution start
+2023-11-21 14:18:29,694 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:18:30,384 | INFO | query execution done
+2023-11-21 14:18:30,440 | INFO | closed
+2023-11-21 14:18:30,440 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:19:20,725 | INFO | hellow world
+2023-11-21 14:19:20,725 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:19:20,725 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:19:23,633 | INFO | creating a stage in snowflake
+2023-11-21 14:19:23,634 | INFO | query exicution start
+2023-11-21 14:19:23,634 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:19:23,835 | INFO | query execution done
+2023-11-21 14:19:23,835 | INFO | Number of results in first chunk: 1
+2023-11-21 14:19:23,835 | INFO | making keys lower
+2023-11-21 14:19:23,835 | INFO | putting data into stage
+2023-11-21 14:19:23,843 | INFO | query exicution start
+2023-11-21 14:19:23,843 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:19:24,936 | INFO | query execution done
+2023-11-21 14:19:26,274 | INFO | making keys lower
+2023-11-21 14:19:26,274 | INFO | creating a table in snowflake
+2023-11-21 14:19:26,274 | INFO | query exicution start
+2023-11-21 14:19:26,281 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:19:26,607 | INFO | query execution done
+2023-11-21 14:19:26,607 | INFO | Number of results in first chunk: 1
+2023-11-21 14:19:26,607 | INFO | making keys lower
+2023-11-21 14:19:26,607 | INFO | copy data into table
+2023-11-21 14:19:26,607 | INFO | query exicution start
+2023-11-21 14:19:26,607 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:19:27,828 | INFO | query execution done
+2023-11-21 14:19:27,884 | INFO | closed
+2023-11-21 14:19:27,884 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:22:31,828 | INFO | hellow world
+2023-11-21 14:22:31,828 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:22:31,828 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:22:33,074 | INFO | creating a stage in snowflake
+2023-11-21 14:22:33,074 | INFO | query exicution start
+2023-11-21 14:22:33,074 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:22:33,272 | INFO | query execution done
+2023-11-21 14:22:33,272 | INFO | Number of results in first chunk: 1
+2023-11-21 14:22:33,272 | INFO | making keys lower
+2023-11-21 14:22:33,272 | INFO | putting data into stage
+2023-11-21 14:22:33,272 | INFO | query exicution start
+2023-11-21 14:22:33,272 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:22:34,505 | INFO | query execution done
+2023-11-21 14:22:35,531 | INFO | making keys lower
+2023-11-21 14:22:35,531 | INFO | creating a table in snowflake
+2023-11-21 14:22:35,531 | INFO | query exicution start
+2023-11-21 14:22:35,531 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:22:35,836 | INFO | query execution done
+2023-11-21 14:22:35,836 | INFO | Number of results in first chunk: 1
+2023-11-21 14:22:35,836 | INFO | making keys lower
+2023-11-21 14:22:35,844 | INFO | copy data into table
+2023-11-21 14:22:35,844 | INFO | query exicution start
+2023-11-21 14:22:35,844 | INFO | query: [copy into MOCK_01.mock_01_schema.SALES_TSV from @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:22:36,448 | INFO | query execution done
+2023-11-21 14:22:36,448 | INFO | Number of results in first chunk: 1
+2023-11-21 14:22:36,448 | INFO | making keys lower
+2023-11-21 14:22:36,514 | INFO | closed
+2023-11-21 14:22:36,514 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:55:02,318 | INFO | hellow world
+2023-11-21 14:55:02,318 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:55:02,318 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:55:03,228 | INFO | creating a stage in snowflake
+2023-11-21 14:55:03,228 | INFO | query exicution start
+2023-11-21 14:55:03,228 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:55:03,398 | INFO | query execution done
+2023-11-21 14:55:03,398 | INFO | Number of results in first chunk: 1
+2023-11-21 14:55:03,398 | INFO | making keys lower
+2023-11-21 14:55:03,398 | INFO | putting data into stage
+2023-11-21 14:55:03,408 | INFO | query exicution start
+2023-11-21 14:55:03,408 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:55:04,503 | INFO | query execution done
+2023-11-21 14:55:05,411 | INFO | making keys lower
+2023-11-21 14:55:05,411 | INFO | creating a table in snowflake
+2023-11-21 14:55:05,411 | INFO | query exicution start
+2023-11-21 14:55:05,411 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:55:05,654 | INFO | query execution done
+2023-11-21 14:55:05,663 | INFO | Number of results in first chunk: 1
+2023-11-21 14:55:05,664 | INFO | making keys lower
+2023-11-21 14:55:05,664 | INFO | copy data into table
+2023-11-21 14:55:05,664 | INFO | query exicution start
+2023-11-21 14:55:05,664 | INFO | query: [f'COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_0...]
+2023-11-21 14:55:05,768 | INFO | query execution done
+2023-11-21 14:55:05,839 | INFO | closed
+2023-11-21 14:55:05,839 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:55:25,967 | INFO | hellow world
+2023-11-21 14:55:25,967 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:55:25,967 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:55:26,722 | INFO | creating a stage in snowflake
+2023-11-21 14:55:26,722 | INFO | query exicution start
+2023-11-21 14:55:26,722 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:55:26,882 | INFO | query execution done
+2023-11-21 14:55:26,882 | INFO | Number of results in first chunk: 1
+2023-11-21 14:55:26,882 | INFO | making keys lower
+2023-11-21 14:55:26,897 | INFO | putting data into stage
+2023-11-21 14:55:26,897 | INFO | query exicution start
+2023-11-21 14:55:26,897 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:55:27,990 | INFO | query execution done
+2023-11-21 14:55:28,879 | INFO | making keys lower
+2023-11-21 14:55:28,884 | INFO | creating a table in snowflake
+2023-11-21 14:55:28,884 | INFO | query exicution start
+2023-11-21 14:55:28,886 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:55:29,161 | INFO | query execution done
+2023-11-21 14:55:29,161 | INFO | Number of results in first chunk: 1
+2023-11-21 14:55:29,161 | INFO | making keys lower
+2023-11-21 14:55:29,161 | INFO | copy data into table
+2023-11-21 14:55:29,161 | INFO | query exicution start
+2023-11-21 14:55:29,161 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:55:30,388 | INFO | query execution done
+2023-11-21 14:55:30,464 | INFO | closed
+2023-11-21 14:55:30,464 | INFO | No async queries seem to be running, deleting session
+2023-11-21 14:56:18,275 | INFO | hellow world
+2023-11-21 14:56:18,275 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 14:56:18,276 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 14:56:19,367 | INFO | creating a stage in snowflake
+2023-11-21 14:56:19,367 | INFO | query exicution start
+2023-11-21 14:56:19,367 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 14:56:19,580 | INFO | query execution done
+2023-11-21 14:56:19,582 | INFO | Number of results in first chunk: 1
+2023-11-21 14:56:19,582 | INFO | making keys lower
+2023-11-21 14:56:19,582 | INFO | putting data into stage
+2023-11-21 14:56:19,584 | INFO | query exicution start
+2023-11-21 14:56:19,585 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 14:56:20,700 | INFO | query execution done
+2023-11-21 14:56:21,732 | INFO | making keys lower
+2023-11-21 14:56:21,732 | INFO | creating a table in snowflake
+2023-11-21 14:56:21,732 | INFO | query exicution start
+2023-11-21 14:56:21,732 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 14:56:22,026 | INFO | query execution done
+2023-11-21 14:56:22,026 | INFO | Number of results in first chunk: 1
+2023-11-21 14:56:22,026 | INFO | making keys lower
+2023-11-21 14:56:22,042 | INFO | copy data into table
+2023-11-21 14:56:22,043 | INFO | query exicution start
+2023-11-21 14:56:22,043 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 14:56:22,849 | INFO | query execution done
+2023-11-21 14:56:22,909 | INFO | closed
+2023-11-21 14:56:22,909 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:03:19,035 | INFO | hellow world
+2023-11-21 15:03:19,035 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:03:19,035 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:03:19,873 | INFO | creating a stage in snowflake
+2023-11-21 15:03:19,873 | INFO | query exicution start
+2023-11-21 15:03:19,873 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:03:20,142 | INFO | query execution done
+2023-11-21 15:03:20,142 | INFO | Number of results in first chunk: 1
+2023-11-21 15:03:20,142 | INFO | making keys lower
+2023-11-21 15:03:20,151 | INFO | putting data into stage
+2023-11-21 15:03:20,151 | INFO | query exicution start
+2023-11-21 15:03:20,151 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:03:21,217 | INFO | query execution done
+2023-11-21 15:03:22,044 | INFO | making keys lower
+2023-11-21 15:03:22,060 | INFO | creating a table in snowflake
+2023-11-21 15:03:22,060 | INFO | query exicution start
+2023-11-21 15:03:22,060 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 15:03:22,423 | INFO | query execution done
+2023-11-21 15:03:22,423 | INFO | Number of results in first chunk: 1
+2023-11-21 15:03:22,423 | INFO | making keys lower
+2023-11-21 15:03:22,423 | INFO | copy data into table
+2023-11-21 15:03:22,423 | INFO | query exicution start
+2023-11-21 15:03:22,423 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 15:03:22,567 | INFO | query execution done
+2023-11-21 15:03:22,638 | INFO | closed
+2023-11-21 15:03:22,638 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:04:20,446 | INFO | hellow world
+2023-11-21 15:04:20,446 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:04:20,446 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:04:21,192 | INFO | creating a stage in snowflake
+2023-11-21 15:04:21,192 | INFO | query exicution start
+2023-11-21 15:04:21,192 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:04:21,351 | INFO | query execution done
+2023-11-21 15:04:21,359 | INFO | Number of results in first chunk: 1
+2023-11-21 15:04:21,359 | INFO | making keys lower
+2023-11-21 15:04:21,359 | INFO | putting data into stage
+2023-11-21 15:04:21,359 | INFO | query exicution start
+2023-11-21 15:04:21,359 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:04:22,485 | INFO | query execution done
+2023-11-21 15:04:23,366 | INFO | making keys lower
+2023-11-21 15:04:23,366 | INFO | creating a table in snowflake
+2023-11-21 15:04:23,366 | INFO | query exicution start
+2023-11-21 15:04:23,366 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 15:04:23,577 | INFO | query execution done
+2023-11-21 15:04:23,592 | INFO | Number of results in first chunk: 1
+2023-11-21 15:04:23,592 | INFO | making keys lower
+2023-11-21 15:04:23,592 | INFO | copy data into table
+2023-11-21 15:04:23,592 | INFO | query exicution start
+2023-11-21 15:04:23,592 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 15:04:24,327 | INFO | query execution done
+2023-11-21 15:04:24,400 | INFO | closed
+2023-11-21 15:04:24,400 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:05:43,642 | INFO | hellow world
+2023-11-21 15:05:43,651 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:05:43,651 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:05:44,410 | INFO | creating a stage in snowflake
+2023-11-21 15:05:44,410 | INFO | query exicution start
+2023-11-21 15:05:44,410 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:05:44,576 | INFO | query execution done
+2023-11-21 15:05:44,576 | INFO | Number of results in first chunk: 1
+2023-11-21 15:05:44,576 | INFO | making keys lower
+2023-11-21 15:05:44,576 | INFO | putting data into stage
+2023-11-21 15:05:44,576 | INFO | query exicution start
+2023-11-21 15:05:44,576 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:05:45,696 | INFO | query execution done
+2023-11-21 15:05:46,617 | INFO | making keys lower
+2023-11-21 15:05:46,617 | INFO | creating a table in snowflake
+2023-11-21 15:05:46,617 | INFO | query exicution start
+2023-11-21 15:05:46,617 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 15:05:46,861 | INFO | query execution done
+2023-11-21 15:05:46,861 | INFO | Number of results in first chunk: 1
+2023-11-21 15:05:46,861 | INFO | making keys lower
+2023-11-21 15:05:46,861 | INFO | copy data into table
+2023-11-21 15:05:46,861 | INFO | query exicution start
+2023-11-21 15:05:46,861 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 15:05:47,465 | INFO | query execution done
+2023-11-21 15:05:47,550 | INFO | closed
+2023-11-21 15:05:47,550 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:20:44,409 | INFO | hellow world
+2023-11-21 15:20:44,409 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:20:44,409 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:20:45,201 | INFO | creating a stage in snowflake
+2023-11-21 15:20:45,201 | INFO | query exicution start
+2023-11-21 15:20:45,201 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:20:45,404 | INFO | query execution done
+2023-11-21 15:20:45,404 | INFO | Number of results in first chunk: 1
+2023-11-21 15:20:45,404 | INFO | making keys lower
+2023-11-21 15:20:45,404 | INFO | putting data into stage
+2023-11-21 15:20:45,404 | INFO | query exicution start
+2023-11-21 15:20:45,404 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:20:46,591 | INFO | query execution done
+2023-11-21 15:20:47,451 | INFO | making keys lower
+2023-11-21 15:20:47,467 | INFO | creating a table in snowflake
+2023-11-21 15:20:47,467 | INFO | query exicution start
+2023-11-21 15:20:47,467 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 15:20:47,749 | INFO | query execution done
+2023-11-21 15:20:47,749 | INFO | Number of results in first chunk: 1
+2023-11-21 15:20:47,749 | INFO | making keys lower
+2023-11-21 15:20:47,749 | INFO | copy data into table
+2023-11-21 15:20:47,749 | INFO | query exicution start
+2023-11-21 15:20:47,749 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 15:20:48,603 | INFO | query execution done
+2023-11-21 15:20:48,603 | INFO | Number of results in first chunk: 1
+2023-11-21 15:20:48,603 | INFO | making keys lower
+2023-11-21 15:20:48,675 | INFO | closed
+2023-11-21 15:20:48,675 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:21:17,776 | INFO | hellow world
+2023-11-21 15:21:17,776 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:21:17,776 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:21:18,578 | INFO | creating a stage in snowflake
+2023-11-21 15:21:18,578 | INFO | query exicution start
+2023-11-21 15:21:18,578 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:21:18,743 | INFO | query execution done
+2023-11-21 15:21:18,743 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:18,743 | INFO | making keys lower
+2023-11-21 15:21:18,743 | INFO | putting data into stage
+2023-11-21 15:21:18,743 | INFO | query exicution start
+2023-11-21 15:21:18,743 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:21:19,802 | INFO | query execution done
+2023-11-21 15:21:20,612 | INFO | making keys lower
+2023-11-21 15:21:20,612 | INFO | creating a table in snowflake
+2023-11-21 15:21:20,612 | INFO | query exicution start
+2023-11-21 15:21:20,612 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV( Order_No NUMBER, order...]
+2023-11-21 15:21:20,789 | INFO | query execution done
+2023-11-21 15:21:20,805 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:20,806 | INFO | making keys lower
+2023-11-21 15:21:20,806 | INFO | copy data into table
+2023-11-21 15:21:20,806 | INFO | query exicution start
+2023-11-21 15:21:20,806 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV FROM @MOCK_01.mock_01_schema.MOCK_01_...]
+2023-11-21 15:21:21,588 | INFO | query execution done
+2023-11-21 15:21:21,588 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:21,604 | INFO | making keys lower
+2023-11-21 15:21:21,660 | INFO | closed
+2023-11-21 15:21:21,660 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:21:52,401 | INFO | hellow world
+2023-11-21 15:21:52,401 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:21:52,405 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:21:53,223 | INFO | creating a stage in snowflake
+2023-11-21 15:21:53,223 | INFO | query exicution start
+2023-11-21 15:21:53,223 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:21:53,407 | INFO | query execution done
+2023-11-21 15:21:53,407 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:53,407 | INFO | making keys lower
+2023-11-21 15:21:53,407 | INFO | putting data into stage
+2023-11-21 15:21:53,419 | INFO | query exicution start
+2023-11-21 15:21:53,419 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:21:54,539 | INFO | query execution done
+2023-11-21 15:21:55,395 | INFO | making keys lower
+2023-11-21 15:21:55,395 | INFO | creating a table in snowflake
+2023-11-21 15:21:55,409 | INFO | query exicution start
+2023-11-21 15:21:55,410 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV2( Order_No NUMBER, orde...]
+2023-11-21 15:21:55,662 | INFO | query execution done
+2023-11-21 15:21:55,662 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:55,662 | INFO | making keys lower
+2023-11-21 15:21:55,662 | INFO | copy data into table
+2023-11-21 15:21:55,662 | INFO | query exicution start
+2023-11-21 15:21:55,662 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV2 FROM @MOCK_01.mock_01_schema.MOCK_01...]
+2023-11-21 15:21:56,484 | INFO | query execution done
+2023-11-21 15:21:56,484 | INFO | Number of results in first chunk: 1
+2023-11-21 15:21:56,484 | INFO | making keys lower
+2023-11-21 15:21:56,550 | INFO | closed
+2023-11-21 15:21:56,550 | INFO | No async queries seem to be running, deleting session
+2023-11-21 15:27:11,305 | INFO | hellow world
+2023-11-21 15:27:11,306 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 15:27:11,306 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 15:27:12,288 | INFO | creating a stage in snowflake
+2023-11-21 15:27:12,288 | INFO | query exicution start
+2023-11-21 15:27:12,288 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 15:27:12,462 | INFO | query execution done
+2023-11-21 15:27:12,466 | INFO | Number of results in first chunk: 1
+2023-11-21 15:27:12,467 | INFO | making keys lower
+2023-11-21 15:27:12,469 | INFO | putting data into stage
+2023-11-21 15:27:12,470 | INFO | query exicution start
+2023-11-21 15:27:12,470 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 15:27:13,608 | INFO | query execution done
+2023-11-21 15:27:14,535 | INFO | making keys lower
+2023-11-21 15:27:14,535 | INFO | creating a table in snowflake
+2023-11-21 15:27:14,535 | INFO | query exicution start
+2023-11-21 15:27:14,535 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV2( Order_No NUMBER, orde...]
+2023-11-21 15:27:14,742 | INFO | query execution done
+2023-11-21 15:27:14,745 | INFO | Number of results in first chunk: 1
+2023-11-21 15:27:14,745 | INFO | making keys lower
+2023-11-21 15:27:14,745 | INFO | copy data into table
+2023-11-21 15:27:14,748 | INFO | query exicution start
+2023-11-21 15:27:14,748 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV2 FROM @MOCK_01.mock_01_schema.MOCK_01...]
+2023-11-21 15:27:15,595 | INFO | query execution done
+2023-11-21 15:27:15,595 | INFO | Number of results in first chunk: 1
+2023-11-21 15:27:15,595 | INFO | making keys lower
+2023-11-21 15:27:15,666 | INFO | closed
+2023-11-21 15:27:15,666 | INFO | No async queries seem to be running, deleting session
+2023-11-21 16:16:51,743 | INFO | hellow world
+2023-11-21 16:16:51,743 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 16:16:51,743 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 16:16:52,868 | INFO | creating a stage in snowflake
+2023-11-21 16:16:52,868 | INFO | query exicution start
+2023-11-21 16:16:52,868 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 16:16:53,167 | INFO | query execution done
+2023-11-21 16:16:53,167 | INFO | Number of results in first chunk: 1
+2023-11-21 16:16:53,181 | INFO | making keys lower
+2023-11-21 16:16:53,183 | INFO | putting data into stage
+2023-11-21 16:16:53,183 | INFO | query exicution start
+2023-11-21 16:16:53,184 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 16:16:54,400 | INFO | query execution done
+2023-11-21 16:16:55,627 | INFO | making keys lower
+2023-11-21 16:16:55,627 | INFO | creating a table in snowflake
+2023-11-21 16:16:55,627 | INFO | query exicution start
+2023-11-21 16:16:55,627 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV2( Order_No NUMBER, orde...]
+2023-11-21 16:16:55,932 | INFO | query execution done
+2023-11-21 16:16:55,932 | INFO | Number of results in first chunk: 1
+2023-11-21 16:16:55,932 | INFO | making keys lower
+2023-11-21 16:16:55,945 | INFO | copy data into table
+2023-11-21 16:16:55,947 | INFO | query exicution start
+2023-11-21 16:16:55,947 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV2 FROM @MOCK_01.mock_01_schema.MOCK_01...]
+2023-11-21 16:16:56,648 | INFO | query execution done
+2023-11-21 16:16:56,721 | INFO | closed
+2023-11-21 16:16:56,721 | INFO | No async queries seem to be running, deleting session
+2023-11-21 16:30:10,306 | INFO | hellow world
+2023-11-21 16:30:10,306 | INFO | Snowflake Connector for Python Version: 3.4.1, Python Version: 3.11.2, Platform: Windows-10-10.0.22621-SP0
+2023-11-21 16:30:10,306 | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2023-11-21 16:30:11,388 | INFO | creating a stage in snowflake
+2023-11-21 16:30:11,388 | INFO | query exicution start
+2023-11-21 16:30:11,388 | INFO | query: [CREATE OR REPLACE STAGE MOCK_01.mock_01_schema.MOCK_01_STAGE FILE_FORMAT = (type...]
+2023-11-21 16:30:11,667 | INFO | query execution done
+2023-11-21 16:30:11,667 | INFO | Number of results in first chunk: 1
+2023-11-21 16:30:11,667 | INFO | making keys lower
+2023-11-21 16:30:11,667 | INFO | putting data into stage
+2023-11-21 16:30:11,667 | INFO | query exicution start
+2023-11-21 16:30:11,667 | INFO | query: [put file://../files/SalesData.tsv @MOCK_01.mock_01_schema.MOCK_01_STAGE]
+2023-11-21 16:30:12,923 | INFO | query execution done
+2023-11-21 16:30:14,053 | INFO | making keys lower
+2023-11-21 16:30:14,053 | INFO | creating a table in snowflake
+2023-11-21 16:30:14,053 | INFO | query exicution start
+2023-11-21 16:30:14,053 | INFO | query: [CREATE OR REPLACE table MOCK_01.mock_01_schema.SALES_TSV2( Order_No NUMBER, orde...]
+2023-11-21 16:30:14,858 | INFO | query execution done
+2023-11-21 16:30:14,858 | INFO | Number of results in first chunk: 1
+2023-11-21 16:30:14,858 | INFO | making keys lower
+2023-11-21 16:30:14,858 | INFO | copy data into table
+2023-11-21 16:30:14,858 | INFO | query exicution start
+2023-11-21 16:30:14,874 | INFO | query: [COPY INTO MOCK_01.mock_01_schema.SALES_TSV2 FROM @MOCK_01.mock_01_schema.MOCK_01...]
+2023-11-21 16:30:15,987 | INFO | query execution done
+2023-11-21 16:30:15,987 | INFO | Number of results in first chunk: 1
+2023-11-21 16:30:15,987 | INFO | making keys lower
+2023-11-21 16:30:16,050 | INFO | closed
+2023-11-21 16:30:16,050 | INFO | No async queries seem to be running, deleting session
